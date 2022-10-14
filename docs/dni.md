@@ -9,7 +9,7 @@ use Peru\Jne\DniFactory;
 
 require 'vendor/autoload.php';
 
-$dni = '46658592';
+$dni = '77160205';
 
 $factory = new DniFactory();
 $cs = $factory->create();
